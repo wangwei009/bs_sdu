@@ -6,3 +6,5 @@ E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.Properties
 E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
 E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.exe
 E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.pdb
+D:\gitnew\agv\AGVLocation\Demo\obj\Debug\Demo.exe
+D:\gitnew\agv\AGVLocation\Demo\obj\Debug\Demo.pdb
