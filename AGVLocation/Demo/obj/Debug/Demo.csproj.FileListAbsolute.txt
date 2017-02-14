@@ -1,0 +1,10 @@
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\bin\Debug\Demo.exe
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\bin\Debug\Demo.pdb
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.Form1.resources
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.exe
+E:\激光导引AGV研发\定位系统\AGVLocation\Demo\obj\Debug\Demo.pdb
+D:\gitnew\agv\AGVLocation\Demo\obj\Debug\Demo.exe
+D:\gitnew\agv\AGVLocation\Demo\obj\Debug\Demo.pdb
