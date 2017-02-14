@@ -1,0 +1,8 @@
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\bin\Debug\UnitTestDemo.dll
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\obj\Debug\UnitTestDemo.dll
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\bin\Debug\Demo.exe
+E:\激光导引AGV研发\定位系统\AGVLocation\UnitTestDemo\bin\Debug\Demo.pdb
