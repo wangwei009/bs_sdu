@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using Demo.Interfece;
 
 namespace Demo
 {
+    public class LandmarkToLandmark
+    {
+        int A { get; set; }
+
+        int B { get; set; }
+
+
+    }
     public class GlobleMap
     {
 
@@ -17,7 +24,7 @@ namespace Demo
 
         public Dictionary<int, Point> LandMarkAbsLocation;
 
-   
+          // 关键 --距离 
         public Dictionary<int, List<LandmarkToLandmark>> LandMarkToLandMarkLenth;
 
         public static int Threshold = 30;  // 距离key值判断 30mm
@@ -45,7 +52,7 @@ namespace Demo
 
         }
         /// <summary>
-        /// 保存地图   datatable
+        /// 保存地图   datatable 转 xml
         /// </summary>
         public void SaveMap()
         {

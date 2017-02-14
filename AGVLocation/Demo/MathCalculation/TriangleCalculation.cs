@@ -8,12 +8,12 @@
         /// </summary>
         public int TwoLengthsAngleToLength(int A, int B, float A_B_Angle)
         {
+            int length=0;
 
 
 
 
-
-            return 1;
+            return length;
         }
     }
 }

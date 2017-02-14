@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using Demo.Interfece;
+
 
 
 namespace Demo.MathCalculation
@@ -18,14 +18,14 @@ namespace Demo.MathCalculation
         /// <param name="C"></param>
         /// <param name="OUT"></param>
 
-        public void Calculation(LocationMap locationMap, CarLocation OUT)
+        public LocationMap Calculation(LocationMap locationMap)
         {
             
+            LocationMap carpLocationMap=new LocationMap();
 
 
 
-
-
+            return carpLocationMap;
 
         }
 

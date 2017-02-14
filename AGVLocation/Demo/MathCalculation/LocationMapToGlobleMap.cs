@@ -8,10 +8,13 @@
         /// <param name="locationMap"></param>
         /// <param name="globleMap"></param>
         /// <param name="OUT"></param>
-        void Calculation(LocationMap locationMap,GlobleMap globleMap,LocationMap OUT)
+        public  LocationMap Calculation(LocationMap locationMap,GlobleMap globleMap)
         {
-            
-           
+
+            LocationMap Loc = new LocationMap();
+
+
+            return Loc;
 
 
 
